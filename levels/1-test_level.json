@@ -1,0 +1,9 @@
+{
+    "name":"The Test Level",
+    "gravity":200,
+    "backgroundColour":[0.2,0.2,0.5,1.0],
+    "shapes":[
+        {"x":0, "y":500, "w":2400, "h":100},
+        {"x":400, "y":400, "w":100, "h":100}
+    ]
+}
